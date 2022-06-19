@@ -43,3 +43,5 @@ yarn-error.log*
 target
 
 *.wav
+# Local Netlify folder
+.netlify
